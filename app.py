@@ -13,12 +13,13 @@ tokenizer, model = load_model()
 
 # Função de tradução
 def translate(text):
-    inputs = tokenizer([text], return_tensors="pt", padding=True, truncation=True)
+    prefixed_text = f">>pt<< {text}"
+    inputs = tokenizer([prefixed_text], return_tensors="pt", padding=True, truncation=True)
     translated = model.generate(**inputs)
     return tokenizer.decode(translated[0], skip_special_tokens=True)
 
 # Layout Streamlit
-st.title("Tradutor de Inglês para Português 🇬🇧➡️🇧🇷")
+st.title("Tradutor de Inglês para Português")
 st.write("Digite uma frase em inglês para traduzir:")
 
 input_text = st.text_area("Texto em inglês:", height=100)
