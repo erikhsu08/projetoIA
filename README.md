@@ -44,6 +44,7 @@ http://localhost:8501
 
 ### 6. Resultado esperado
 Segue uma printscreen da aplicação Streamlit que deverá ser exibida para consumo do modelo desenvolvido:
+![Streamlit](streamlit.png)
 
 
 ## Texto / Artigo do Projeto
