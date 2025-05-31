@@ -4,7 +4,7 @@ Este repositório contém um projeto de tradução automática de inglês para p
 
 ## Código completo e executável em um notebook Python
 
-[Acesse o notebook aqui](notebook/Projeto_IA.ipynb)
+[Acesse o notebook aqui](Projeto_IA.ipynb)
 
 ##  Aplicação Streamlit
 
