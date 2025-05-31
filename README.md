@@ -28,13 +28,13 @@ ou, se preferir, instale os pacotes manualmente:
 pip install streamlit transformers torch sentencepiece protobuf numpy pillow
 ```
 
-### 4. Execute a aplicação Streamlit
+### 3. Execute a aplicação Streamlit
 
 ```bash
 streamlit run app.py
 ```
 
-### 5. Acesse a aplicação
+### 4. Acesse a aplicação
 
 Após executar o comando acima, o Streamlit abrirá automaticamente seu navegador padrão. Caso isso não aconteça, acesse manualmente:
 
@@ -42,7 +42,7 @@ Após executar o comando acima, o Streamlit abrirá automaticamente seu navegado
 http://localhost:8501
 ```
 
-### 6. Resultado esperado
+### 5. Resultado esperado
 Segue uma printscreen da aplicação Streamlit que deverá ser exibida para consumo do modelo desenvolvido:
 ![Streamlit](streamlit.png)
 
