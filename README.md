@@ -19,12 +19,6 @@ cd projetoIA
 ### 2. Instale as dependências
 
 ```bash
-pip install -r requirements.txt
-```
-
-ou, se preferir, instale os pacotes manualmente:
-
-```bash
 pip install streamlit transformers torch sentencepiece protobuf numpy pillow
 ```
 
