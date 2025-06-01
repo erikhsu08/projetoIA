@@ -4,9 +4,9 @@ from transformers import MarianTokenizer, MarianMTModel
 # Carregar modelo e tokenizer
 @st.cache_resource
 def load_model():
-    model_name = "Helsinki-NLP/opus-mt-en-ROMANCE"
-    tokenizer = MarianTokenizer.from_pretrained(model_name)
-    model = MarianMTModel.from_pretrained(model_name)
+    model_path = "modelo_final" # usando o modelo que treinamos no colab
+    tokenizer = MarianTokenizer.from_pretrained(model_path)
+    model = MarianMTModel.from_pretrained(model_path)
     return tokenizer, model
 
 tokenizer, model = load_model()
