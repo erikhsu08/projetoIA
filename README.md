@@ -68,6 +68,7 @@ Segue uma printscreen da aplicação Streamlit que deverá ser exibida para cons
 
 
 ## Texto / Artigo do Projeto
+[Acesse o pdf com o artigo do projeto!!](https://github.com/erikhsu08/projetoIA/blob/main/resources/Projeto-IA.pdf)
 
 [Acesso o link para o artigo do projeto!!](https://docs.google.com/document/d/1DYdHE_ONzrDVHjv4vHvMwX7NmycGEmOJ-vY0FbZKVSY/edit?usp=sharing)
 ## Vídeo de Apresentação
