@@ -5,7 +5,7 @@ Este repositório contém um projeto de tradução automática de inglês para p
 ## Índice
 1. [Código completo e executável](#Código-completo-e-executável-em-um-notebook-Python)
 2. [Aplicação Streamlit](#Aplicação-Streamlit)
-3. [Texto/Artigo](#texto-/-Artigo-do-projeto)
+3. [Texto/Artigo](#texto--artigo-do-projeto)
 4. [Vídeo de apresentação](#Vídeo-de-Apresentação)
 
 ## Código completo e executável em um notebook Python
