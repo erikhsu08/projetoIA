@@ -25,7 +25,7 @@ cd projetoIA
 ### 2. Baixe o modelo treinado
 👉 [Download modelo_final.zip](https://drive.google.com/file/d/1NyLsw22E6XrfyftoYIfC9zzd3Y3btcXt/view?usp=sharing)
 
-[⚠️**IMPORTANTE**] Após o download:
+[⚠️**IMPORTANTE** ] Após o download:
  - Extraia o conteúdo na mesma pasta onde está o `app.py`
  - Certifique-se de que a estrutura do diretório fique assim:  
 ![image](https://github.com/user-attachments/assets/c822ff1e-4bde-4271-8b32-f92e67a6e1ef)
