@@ -69,5 +69,7 @@ Segue uma printscreen da aplicação Streamlit que deverá ser exibida para cons
 
 ## Texto / Artigo do Projeto
 
+[Acesso o link para o artigo do projeto!!](https://docs.google.com/document/d/1DYdHE_ONzrDVHjv4vHvMwX7NmycGEmOJ-vY0FbZKVSY/edit?usp=sharing)
 ## Vídeo de Apresentação
-- inserir link aqui
+
+[Acesse o link para o vídeo!!](https://www.youtube.com/watch?v=6DFBNSNQ4wY)
