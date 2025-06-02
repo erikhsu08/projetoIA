@@ -13,6 +13,12 @@ Este repositório contém um projeto de tradução automática de inglês para p
 👉 [Acesse o notebook aqui](Projeto_IA.ipynb)
 
 ##  Aplicação Streamlit
+
+**OBS: para rodar a aplicação usamos o python 3.10, que é uma versão que possui suporte as bibliotecas usadas no projeto**
+👉 Se você não possui uma versão do python com suporte a essas biblitecas, nós recomendamos que você instale e configure essa versão no seu computador!!
+
+[Acesso o site oficial do Python](https://www.python.org/downloads/release/python-3100/)
+
 Para consumir o modelo via uma aplicação Streamlit, siga os passos:
 
 ### 1. Clone o repositório
