@@ -57,6 +57,6 @@ Segue uma printscreen da aplicação Streamlit que deverá ser exibida para cons
 
 
 ## Texto / Artigo do Projeto
-
+- texto aq
 ## Vídeo de Apresentação
 - inserir link aqui
