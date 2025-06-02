@@ -2,6 +2,11 @@
 
 Este repositório contém um projeto de tradução automática de inglês para português, utilizando o modelo **MarianMT** da Hugging Face.
 
+**Integrantes do Grupo**
+- Erik Samuel Viana Hsu - 10403109
+- Mateus Kenzo Iochimoto - 10400995
+- Thiago Shihan Cardoso Toma - 10400764
+
 ## Índice
 1. [Código completo e executável](#Código-completo-e-executável-em-um-notebook-Python)
 2. [Aplicação Streamlit](#Aplicação-Streamlit)
